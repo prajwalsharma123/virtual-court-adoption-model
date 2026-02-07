@@ -223,5 +223,11 @@ This project demonstrates:
 
 ---
 
-## 11. Repository Structure
+## Authors
+
+Prajwal Sharma – Problem structuring, behavioral diagnosis, solution architecture  
+Hetvi Rupani – Research synthesis, evidence mapping, implementation design  
+
+Project created as part of the Samagra x Strategia Case Competition.
+
 
